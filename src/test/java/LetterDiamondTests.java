@@ -2,7 +2,7 @@ import de.do_webdev.letterdiamond.LetterDiamond;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
-public class LetterDiamondTest {
+public class LetterDiamondTests {
 
     LetterDiamond letterDiamond;
 
